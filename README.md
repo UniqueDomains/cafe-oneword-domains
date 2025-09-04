@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CAFE one-word domains still available to buy.
 
-This dataset contains 3,804 .CAFE one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,846 .CAFE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CAFE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cafe-oneword-domains&utm_content=description.top) (3,783) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,38 +13,38 @@ If you want to search & filters the complete database of [.CAFE one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cafe-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.csv"><b>⬇️ CSV (3.8K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.json"><b>⬇️ JSON (3.8K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.csv"><b>⬇️ CSV (3.85K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.json"><b>⬇️ JSON (3.85K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cafe-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.78K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.cafe  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.cafe      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.cafe  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.cafe    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.cafe     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.cafe   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.cafe     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.cafe    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.cafe   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.cafe  | available | 50       | 1%     | 9      |           |         |         |
+| abactinal.cafe  | premium   | 50       | 1%     | 9      |           |         |         |
+| abaft.cafe      | premium   | 43       | 2%     | 5      |           |         |         |
+| abandoned.cafe  | premium   | 58       | 10%    | 9      |           |         |         |
+| abashed.cafe    | premium   | 60       | 2%     | 7      |           |         |         |
+| abasic.cafe     | premium   | 54       | 2%     | 6      |           |         |         |
+| abatable.cafe   | premium   | 54       | 1%     | 8      |           |         |         |
+| abatic.cafe     | premium   | 54       | 2%     | 6      |           |         |         |
+| abaxial.cafe    | premium   | 54       | 2%     | 7      |           |         |         |
+| abbatial.cafe   | premium   | 50       | 1%     | 8      |           |         |         |
+| abdicable.cafe  | premium   | 50       | 1%     | 9      |           |         |         |
 | abdominal.cafe  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.cafe | available | 56       | 1%     | 10     |           |         |         |
-| abducens.cafe   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.cafe   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.cafe  | available | 50       | 1%     | 9      |           |         |         |
+| abdominous.cafe | premium   | 56       | 1%     | 10     |           |         |         |
+| abducens.cafe   | premium   | 54       | 1%     | 8      |           |         |         |
+| abducent.cafe   | premium   | 68       | 1%     | 8      |           |         |         |
+| abducting.cafe  | premium   | 50       | 1%     | 9      |           |         |         |
 | abenaki.cafe    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.cafe | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.cafe   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.cafe    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.cafe  | available | 54       | 1%     | 9      |           |         |         |
+| aberdonian.cafe | premium   | 68       | 1%     | 10     |           |         |         |
+| aberrant.cafe   | premium   | 74       | 7%     | 8      |           |         |         |
+| abeyant.cafe    | premium   | 56       | 2%     | 7      |           |         |         |
+| abhorrent.cafe  | premium   | 54       | 1%     | 9      |           |         |         |
 | abiding.cafe    | available | 106      | 5%     | 7      |           |         |         |
-| abient.cafe     | available | 54       | 1%     | 6      |           |         |         |
+| abient.cafe     | premium   | 54       | 1%     | 6      |           |         |         |
 | abject.cafe     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.cafe     | available | 68       | 1%     | 6      |           |         |         |
+| abkhas.cafe     | premium   | 68       | 1%     | 6      |           |         |         |
 | abkhasian.cafe  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.cafe     | available | 82       | 2%     | 6      |           |         |         |
 | abkhazian.cafe  | available | 78       | 1%     | 9      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.CAFE one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cafe-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.csv"><b>⬇️ CSV (3.8K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.json"><b>⬇️ JSON (3.8K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.csv"><b>⬇️ CSV (3.85K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.json"><b>⬇️ JSON (3.85K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cafe-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.78K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
