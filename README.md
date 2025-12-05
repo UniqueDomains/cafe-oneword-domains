@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CAFE one-word domains still available to buy.
 
-This dataset contains 4,243 .CAFE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,242 .CAFE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CAFE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cafe-oneword-domains&utm_content=description.top) (4,242) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
