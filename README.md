@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CAFE one-word domains still available to buy.
 
-This dataset contains 4,231 .CAFE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,410 .CAFE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CAFE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cafe-oneword-domains&utm_content=description.top) (4,229) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.CAFE one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cafe-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.csv"><b>⬇️ CSV (4.23K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.json"><b>⬇️ JSON (4.23K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.csv"><b>⬇️ CSV (4.41K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.json"><b>⬇️ JSON (4.41K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cafe-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.23K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -43,8 +43,8 @@ If you want to search & filters the complete database of [.CAFE one word domains
 | abhorrent.cafe  | premium   | 54       | 3%     | 9      |           |         |         |
 | abiding.cafe    | available | 106      | 5%     | 7      |           |         |         |
 | abient.cafe     | premium   | 54       | 1%     | 6      |           |         |         |
-| ability.cafe    | available | 92       | 18%    | 7      |           |         |         |
-| abit.cafe       | available | 66       | 16%    | 5      |           |         |         |
+| ability.cafe    | available | 92       | 16%    | 7      |           |         |         |
+| abit.cafe       | available | 66       | 12%    | 5      |           |         |         |
 | abject.cafe     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.cafe     | premium   | 68       | 1%     | 6      |           |         |         |
 | abkhasian.cafe  | available | 78       | 1%     | 9      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.CAFE one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cafe-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.csv"><b>⬇️ CSV (4.23K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.json"><b>⬇️ JSON (4.23K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.csv"><b>⬇️ CSV (4.41K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cafe-oneword-domains/blob/main/cafe.json"><b>⬇️ JSON (4.41K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cafe-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.23K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.CAFE one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
