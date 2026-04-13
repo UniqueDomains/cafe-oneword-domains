@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| check.cafe    | available | $7.99     | $60.99        | 76             | 38     | 5      | name.com     |
-| open.cafe     | resell    | —         | —             | 106            | 99     | 4      | Porkbun LLC  |
-| god.cafe      | premium   | $42.90    | $42.90        | 90             | 49     | 3      | namecheap    |
-| done.cafe     | available | $7.99     | $60.99        | 80             | 36     | 4      | name.com     |
-| near.cafe     | resell    | —         | —             | 66             | 99     | 4      | Dynadot Inc  |
-| elite.cafe    | premium   | $123.75   | $123.75       | 90             | 43     | 5      | name.com     |
-| dynamic.cafe  | available | $7.99     | $60.99        | 94             | 34     | 7      | name.com     |
-| mac.cafe      | resell    | —         | —             | 94             | 82     | 3      | eNom, LLC    |
-| tax.cafe      | premium   | $42.90    | $42.90        | 74             | 41     | 3      | namecheap    |
-| progress.cafe | available | $7.99     | $60.99        | 82             | 34     | 8      | name.com     |
-| boss.cafe     | resell    | —         | —             | 76             | 73     | 4      | DNSPod, Inc. |
-| lol.cafe      | premium   | $42.90    | $42.90        | 76             | 36     | 3      | namecheap    |
-| advance.cafe  | available | $7.99     | $60.99        | 110            | 33     | 7      | name.com     |
-| flow.cafe     | resell    | —         | —             | 96             | 67     | 4      | DNSPod, Inc. |
-| ten.cafe      | premium   | $123.75   | $123.75       | 88             | 31     | 3      | name.com     |
-| eleven.cafe   | available | $7.99     | $60.99        | 88             | 33     | 6      | name.com     |
-| news.cafe     | resell    | —         | —             | 100            | 64     | 4      | Dynadot Inc  |
-| oil.cafe      | premium   | $42.90    | $42.90        | 74             | 28     | 3      | namecheap    |
-| rank.cafe     | available | $7.99     | $60.99        | 70             | 33     | 4      | name.com     |
-| domain.cafe   | resell    | —         | —             | 80             | 64     | 6      | IONOS SE     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| check.cafe    | available | $7.99     | $60.99        | 76             | 37     | 5      | name.com                                            |
+| open.cafe     | resell    | —         | —             | 106            | 99     | 4      | Porkbun LLC                                         |
+| god.cafe      | premium   | $42.90    | $42.90        | 90             | 49     | 3      | namecheap                                           |
+| done.cafe     | available | $7.99     | $60.99        | 80             | 36     | 4      | name.com                                            |
+| mac.cafe      | resell    | —         | —             | 94             | 82     | 3      | eNom, LLC                                           |
+| elite.cafe    | premium   | $123.75   | $123.75       | 90             | 43     | 5      | name.com                                            |
+| dynamic.cafe  | available | $7.99     | $60.99        | 94             | 34     | 7      | name.com                                            |
+| boss.cafe     | resell    | —         | —             | 76             | 73     | 4      | DNSPod, Inc.                                        |
+| tax.cafe      | premium   | $42.90    | $42.90        | 74             | 41     | 3      | namecheap                                           |
+| progress.cafe | available | $7.99     | $60.99        | 82             | 34     | 8      | name.com                                            |
+| flow.cafe     | resell    | —         | —             | 96             | 67     | 4      | DNSPod, Inc.                                        |
+| lol.cafe      | premium   | $42.90    | $42.90        | 76             | 36     | 3      | namecheap                                           |
+| advance.cafe  | available | $7.99     | $60.99        | 110            | 33     | 7      | name.com                                            |
+| news.cafe     | resell    | —         | —             | 100            | 64     | 4      | Dynadot Inc                                         |
+| ten.cafe      | premium   | $123.75   | $123.75       | 88             | 31     | 3      | name.com                                            |
+| eleven.cafe   | available | $7.99     | $60.99        | 88             | 33     | 6      | name.com                                            |
+| domain.cafe   | resell    | —         | —             | 80             | 64     | 6      | IONOS SE                                            |
+| oil.cafe      | premium   | $42.90    | $42.90        | 74             | 29     | 3      | namecheap                                           |
+| rank.cafe     | available | $7.99     | $60.99        | 70             | 33     | 4      | name.com                                            |
+| home.cafe     | resell    | —         | —             | 100            | 62     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
