@@ -387,7 +387,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 23d38b20-d831-4133-b4c2-a926ef6692d8,coaches.cafe,available,7.99,,56,15,7,name.com,,
 23d6c35f-d0f2-49cf-b13b-6bbc65b0a087,urges.cafe,available,7.99,,51,4,5,name.com,,
 23dfd3d1-60a4-41ea-927f-ff140189e90b,introductory.cafe,available,7.99,,74,2,12,name.com,,
-23f5f7a4-4928-41ce-9b40-ac34b18ceadd,everywhere.cafe,resell,,,62,26,10,"Spaceship, Inc.",22/02/2026 08:14,22/02/2027 08:14
+23f5f7a4-4928-41ce-9b40-ac34b18ceadd,everywhere.cafe,resell,,,62,24,10,"Spaceship, Inc.",22/02/2026 08:14,22/02/2027 08:14
 23f7c49a-eed3-4402-92eb-9733553cd1f7,ballplayer.cafe,available,7.99,,74,3,11,name.com,,
 24115304-e3fa-4fcf-8dff-1e5c7fbf444f,hangin.cafe,available,7.99,,76,4,7,name.com,,
 2422ad11-3cac-4109-9b2c-b29514e724fc,GoldenValley.cafe,available,64.98,,58,6,13,namecheap,,

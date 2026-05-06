@@ -1,10 +1,10 @@
-# Available .CAFE One-Word Domains (11,235)
+# Available .CAFE One-Word Domains (11,240)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C235%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C240%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cafe one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,235 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,240 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,235 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,240 domains · **Median ask:** $12.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/cafe`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,19 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| girls.cafe       | available | $7.99     | —             | 83             | 23     | 5      | name.com                                            |
+| ladies.cafe      | available | $7.99     | —             | 80             | 17     | 6      | name.com                                            |
+| barup.cafe       | available | $7.99     | —             | 82             | 2      | 6      | name.com                                            |
+| getup.cafe       | available | $7.99     | —             | 82             | 14     | 6      | name.com                                            |
+| Apples.cafe      | available | $64.98    | —             | 90             | 16     | 6      | namecheap                                           |
+| dogsit.cafe      | available | $7.99     | —             | 96             | 2      | 6      | name.com                                            |
+| edamame.cafe     | available | $7.99     | —             | 80             | 9      | 7      | name.com                                            |
+| gearup.cafe      | available | $7.99     | —             | 80             | 16     | 7      | name.com                                            |
+| toneup.cafe      | available | $7.99     | —             | 80             | 5      | 7      | name.com                                            |
+| hangon.cafe      | available | $7.99     | —             | 82             | 6      | 7      | name.com                                            |
+| pierogi.cafe     | available | $7.99     | —             | 82             | 7      | 7      | name.com                                            |
+| dogsick.cafe     | available | $7.99     | —             | 90             | 1      | 7      | name.com                                            |
+| Snickers.cafe    | available | $64.98    | —             | 80             | 10     | 8      | namecheap                                           |
 | letsgo.cafe      | available | $7.99     | —             | 57             | 31     | 7      | name.com                                            |
 | journey.cafe     | resell    | —         | —             | 72             | 33     | 7      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | Jim.cafe         | premium   | $138.60   | $138.60       | 78             | 28     | 3      | namecheap                                           |
@@ -71,19 +84,6 @@ print(df.head())
 | popup.cafe       | resell    | —         | —             | 84             | 29     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | VHS.cafe         | premium   | $46.20    | $46.20        | 71             | 20     | 3      | namecheap                                           |
 | storyteller.cafe | available | $7.99     | —             | 82             | 25     | 11     | name.com                                            |
-| gods.cafe        | resell    | —         | —             | 72             | 27     | 4      | Dynadot Inc                                         |
-| plz.cafe         | premium   | $46.20    | $46.20        | 72             | 14     | 3      | namecheap                                           |
-| girls.cafe       | available | $7.99     | —             | 83             | 23     | 5      | name.com                                            |
-| everywhere.cafe  | resell    | —         | —             | 62             | 26     | 10     | Spaceship, Inc.                                     |
-| sqm.cafe         | premium   | $82.50    | —             | 54             | 11     | 4      | name.com                                            |
-| veterans.cafe    | available | $7.99     | —             | 56             | 23     | 8      | name.com                                            |
-| comics.cafe      | resell    | —         | —             | 68             | 24     | 6      | Dynadot Inc                                         |
-| CapeCod.cafe     | available | $64.98    | —             | 78             | 22     | 8      | namecheap                                           |
-| gamers.cafe      | resell    | —         | —             | 62             | 24     | 6      | Sav.com, LLC                                        |
-| webshop.cafe     | available | $7.99     | —             | 76             | 22     | 8      | name.com                                            |
-| views.cafe       | resell    | —         | —             | 62             | 18     | 5      | Dynadot Inc                                         |
-| guns.cafe        | available | $7.99     | —             | 68             | 22     | 4      | name.com                                            |
-| Henri.cafe       | resell    | —         | —             | 66             | 15     | 5      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,235 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,240 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .cafe domains. The set ranges from dictionary-style words and simple phrases to broader consumer terms such as girls.cafe, jewels.cafe, finals.cafe, and Apples.cafe. For founders, the main question is whether the word feels natural on a .cafe ending and can support a clear brand without extra explanation. For investors, the key test is whether the name is buyable at a sensible ask and broad enough to attract more than one end user. With a median ask of 12.35, pricing looks accessible, but selection quality still depends on clarity, trademark distance, and commercial fit.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor words that read naturally with the .cafe ending
+- Check if the term suits food, hospitality, or lifestyle use
+- Use the 12.35 median ask as a basic price reference
+- Avoid words with obvious brand or trademark collision risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAFE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAFE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
