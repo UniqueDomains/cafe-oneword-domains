@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| girls.cafe       | available | $7.99     | —             | 83             | 23     | 5      | name.com                                            |
-| ladies.cafe      | available | $7.99     | —             | 80             | 17     | 6      | name.com                                            |
-| barup.cafe       | available | $7.99     | —             | 82             | 2      | 6      | name.com                                            |
-| getup.cafe       | available | $7.99     | —             | 82             | 14     | 6      | name.com                                            |
-| Apples.cafe      | available | $64.98    | —             | 90             | 16     | 6      | namecheap                                           |
-| dogsit.cafe      | available | $7.99     | —             | 96             | 2      | 6      | name.com                                            |
-| edamame.cafe     | available | $7.99     | —             | 80             | 9      | 7      | name.com                                            |
-| gearup.cafe      | available | $7.99     | —             | 80             | 16     | 7      | name.com                                            |
-| toneup.cafe      | available | $7.99     | —             | 80             | 5      | 7      | name.com                                            |
-| hangon.cafe      | available | $7.99     | —             | 82             | 6      | 7      | name.com                                            |
-| pierogi.cafe     | available | $7.99     | —             | 82             | 7      | 7      | name.com                                            |
-| dogsick.cafe     | available | $7.99     | —             | 90             | 1      | 7      | name.com                                            |
-| Snickers.cafe    | available | $64.98    | —             | 80             | 10     | 8      | namecheap                                           |
-| letsgo.cafe      | available | $7.99     | —             | 57             | 31     | 7      | name.com                                            |
-| journey.cafe     | resell    | —         | —             | 72             | 33     | 7      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| Jim.cafe         | premium   | $138.60   | $138.60       | 78             | 28     | 3      | namecheap                                           |
-| cams.cafe        | available | $7.99     | —             | 52             | 29     | 4      | name.com                                            |
-| popup.cafe       | resell    | —         | —             | 84             | 29     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| VHS.cafe         | premium   | $46.20    | $46.20        | 71             | 20     | 3      | namecheap                                           |
-| storyteller.cafe | available | $7.99     | —             | 82             | 25     | 11     | name.com                                            |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| girls.cafe       | available | $7.99     | —             | 83             | 23     | 5      | name.com                                     |
+| ladies.cafe      | available | $7.99     | —             | 80             | 17     | 6      | name.com                                     |
+| barup.cafe       | available | $7.99     | —             | 82             | 2      | 6      | name.com                                     |
+| getup.cafe       | available | $7.99     | —             | 82             | 14     | 6      | name.com                                     |
+| Apples.cafe      | available | $64.98    | —             | 90             | 16     | 6      | namecheap                                    |
+| dogsit.cafe      | available | $7.99     | —             | 96             | 2      | 6      | name.com                                     |
+| edamame.cafe     | available | $7.99     | —             | 80             | 9      | 7      | name.com                                     |
+| gearup.cafe      | available | $7.99     | —             | 80             | 16     | 7      | name.com                                     |
+| toneup.cafe      | available | $7.99     | —             | 80             | 5      | 7      | name.com                                     |
+| hangon.cafe      | available | $7.99     | —             | 82             | 6      | 7      | name.com                                     |
+| pierogi.cafe     | available | $7.99     | —             | 82             | 7      | 7      | name.com                                     |
+| dogsick.cafe     | available | $7.99     | —             | 90             | 1      | 7      | name.com                                     |
+| Snickers.cafe    | available | $64.98    | —             | 80             | 10     | 8      | namecheap                                    |
+| letsgo.cafe      | available | $7.99     | —             | 57             | 31     | 7      | name.com                                     |
+| taco.cafe        | resell    | —         | —             | 80             | 35     | 4      | Sav.com, LLC                                 |
+| Jim.cafe         | premium   | $138.60   | $138.60       | 78             | 28     | 3      | namecheap                                    |
+| cams.cafe        | available | $7.99     | —             | 52             | 29     | 4      | name.com                                     |
+| journey.cafe     | resell    | —         | —             | 72             | 33     | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
+| VHS.cafe         | premium   | $46.20    | $46.20        | 71             | 20     | 3      | namecheap                                    |
+| storyteller.cafe | available | $7.99     | —             | 82             | 25     | 11     | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

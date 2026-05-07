@@ -451,6 +451,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 29ff3c59-5cf7-4125-830f-8d1e2fd30d79,instep.cafe,available,7.99,,72,7,7,name.com,,
 2a29baf0-5750-48b4-9dd8-38c72d2942f1,voices.cafe,available,7.99,,60,19,6,name.com,,
 2a585775-6692-4722-9809-b8f430880a7b,writes.cafe,available,7.99,,56,9,6,name.com,,
+2a59ff94-4484-45a4-af65-b4d029f0ddc1,taco.cafe,resell,,,80,35,4,"Sav.com, LLC",04/05/2026 14:44,04/05/2027 14:44
 2aa2f001-4883-4d02-8fb3-a793cb1e0b61,mistakenidentity.cafe,available,7.99,,52,2,17,name.com,,
 2ab195d0-5a3a-4b0b-ab61-641754bdd212,intheory.cafe,available,7.99,,52,5,9,name.com,,
 2b04b06a-f441-4a13-8714-c7f194cc9725,Mikey.cafe,available,64.98,,70,21,5,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d7cecf4-5ecb-48b7-a14a-00d80547e391,goonvacation.cafe,available,7.99,,48,1,14,name.com,,
 5d7f8dfd-97b5-4df7-ac56-7c5a46763fe8,personals.cafe,available,7.99,,47,8,9,name.com,,
 5d8c3627-2d03-4fa0-b110-01b76d3bfa40,salts.cafe,available,7.99,,56,7,5,name.com,,
-5d9b39e6-5061-414b-83af-a6831a2c5611,godownfighting.cafe,available,7.99,,44,1,16,name.com,,
