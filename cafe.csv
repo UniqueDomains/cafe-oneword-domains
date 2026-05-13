@@ -157,6 +157,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0ef8271d-4a02-4df8-a079-2b58f82cff86,generalmeeting.cafe,available,7.99,,46,2,15,name.com,,
 0f3d0e47-2b19-4afe-8b26-7ae893c47729,introduces.cafe,available,7.99,,58,2,10,name.com,,
 0f5591df-5f86-4a86-ad10-6086c2cdc2b8,commontime.cafe,available,7.99,,68,4,11,name.com,,
+0f7782b1-9de8-4c8b-a385-3307fe7862f9,ADS.cafe,premium,38.94,38.94,70,45,3,namesilo,,
 0f79a96d-8427-46ad-87b6-abdd62da8fd2,OLEDdisplay.cafe,available,7.99,,62,1,12,name.com,,
 0f92fbf8-39e2-4639-864a-ec7c1e46b792,successively.cafe,available,7.99,,56,0,12,name.com,,
 0fa98f40-52b3-4cc9-98eb-9455f42ec05f,flashdoor.cafe,available,7.99,,50,0,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d78cd7c-dc85-4565-9dd8-6595ae0b359c,givingbirth.cafe,available,7.99,,89,2,12,name.com,,
 5d7cecf4-5ecb-48b7-a14a-00d80547e391,goonvacation.cafe,available,7.99,,48,1,14,name.com,,
 5d7f8dfd-97b5-4df7-ac56-7c5a46763fe8,personals.cafe,available,7.99,,47,8,9,name.com,,
-5d8c3627-2d03-4fa0-b110-01b76d3bfa40,salts.cafe,available,7.99,,56,7,5,name.com,,
