@@ -737,6 +737,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4692fb51-c097-4459-8911-f3e1511ae495,flipflops.cafe,available,7.99,,52,5,10,name.com,,
 46a09872-ef60-427b-a504-2c51e4b22a0c,IsleofWightCounty.cafe,available,64.98,,52,2,20,namecheap,,
 46a21202-6a36-4529-98da-e5f6c5de92d4,strangers.cafe,available,7.99,,46,9,9,name.com,,
+46cb5ef2-3246-4def-ac57-1d66b827998c,players.cafe,available,7.99,,69,21,7,name.com,,
 46ce825c-2d6c-4e73-8df0-ce3f2548506d,nurses.cafe,available,7.99,,54,13,6,name.com,,
 471ab6a4-58b6-4216-8514-2dd0c9a8f08d,printers.cafe,available,7.99,,59,10,8,name.com,,
 474a77cc-c206-4ccd-8705-0820123c2c8c,believein.cafe,available,7.99,,68,6,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d46d2f9-48de-4ef4-bc6d-2cdc9940f163,Frenchparsley.cafe,available,64.98,,66,1,14,namecheap,,
 5d78cd7c-dc85-4565-9dd8-6595ae0b359c,givingbirth.cafe,available,7.99,,89,2,12,name.com,,
 5d7cecf4-5ecb-48b7-a14a-00d80547e391,goonvacation.cafe,available,7.99,,48,1,14,name.com,,
-5d7f8dfd-97b5-4df7-ac56-7c5a46763fe8,personals.cafe,available,7.99,,47,8,9,name.com,,
