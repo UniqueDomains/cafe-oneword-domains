@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .cafe one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,247 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,247 domains · **Median ask:** $12.36 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,247 domains · **Median ask:** $10.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cafe`  
+**Last updated:** 2026-06-04
+**Canonical page:** `https://unique.domains/domains/tld/cafe`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| girls.cafe       | available | $7.99     | —             | 83             | 23     | 5      | name.com                                     |
-| ladies.cafe      | available | $7.99     | —             | 80             | 17     | 6      | name.com                                     |
-| barup.cafe       | available | $7.99     | —             | 82             | 2      | 6      | name.com                                     |
-| getup.cafe       | available | $7.99     | —             | 82             | 15     | 6      | name.com                                     |
-| Apples.cafe      | available | $64.98    | —             | 90             | 16     | 6      | namecheap                                    |
-| dogsit.cafe      | available | $7.99     | —             | 96             | 2      | 6      | name.com                                     |
-| edamame.cafe     | available | $7.99     | —             | 80             | 9      | 7      | name.com                                     |
-| gearup.cafe      | available | $7.99     | —             | 80             | 16     | 7      | name.com                                     |
-| toneup.cafe      | available | $7.99     | —             | 80             | 5      | 7      | name.com                                     |
-| hangon.cafe      | available | $7.99     | —             | 82             | 6      | 7      | name.com                                     |
-| pierogi.cafe     | available | $7.99     | —             | 82             | 7      | 7      | name.com                                     |
-| dogsick.cafe     | available | $7.99     | —             | 90             | 1      | 7      | name.com                                     |
-| Snickers.cafe    | available | $64.98    | —             | 80             | 10     | 8      | namecheap                                    |
-| letsgo.cafe      | available | $7.99     | —             | 57             | 31     | 7      | name.com                                     |
-| taco.cafe        | resell    | —         | —             | 80             | 35     | 4      | Sav.com, LLC                                 |
-| ADS.cafe         | premium   | $38.94    | $38.94        | 70             | 45     | 3      | namesilo                                     |
-| cams.cafe        | available | $7.99     | —             | 52             | 29     | 4      | name.com                                     |
-| journey.cafe     | resell    | —         | —             | 72             | 34     | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
-| Jim.cafe         | premium   | $138.60   | $138.60       | 78             | 28     | 3      | namecheap                                    |
-| storyteller.cafe | available | $7.99     | —             | 82             | 25     | 11     | name.com                                     |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| breakfast.cafe       | resell    | —         | —             | 96             | 20     | 9      | NameSilo, LLC     |
+| positive.cafe        | available | $7.99     | —             | 84             | 34     | 8      | name.com          |
+| knot.cafe            | available | $7.99     | —             | 92             | 22     | 4      | name.com          |
+| phrase.cafe          | available | $7.99     | —             | 94             | 11     | 6      | name.com          |
+| raise.cafe           | available | $7.99     | —             | 102            | 27     | 5      | name.com          |
+| whereas.cafe         | available | $7.99     | —             | 86             | 4      | 7      | name.com          |
+| AlbertEinstein.cafe  | available | $7.99     | —             | 94             | 7      | 15     | name.com          |
+| dirty.cafe           | available | $7.99     | $60.99        | 92             | 26     | 5      | name.com          |
+| perfect.cafe         | resell    | —         | —             | 124            | 39     | 7      | Sav.com, LLC - 4  |
+| things.cafe          | available | $7.99     | —             | 80             | 29     | 6      | name.com          |
+| disturb.cafe         | available | $7.99     | —             | 82             | 6      | 7      | name.com          |
+| feeling.cafe         | available | $7.99     | —             | 106            | 18     | 7      | name.com          |
+| congratulations.cafe | available | $7.99     | —             | 88             | 7      | 15     | name.com          |
+| amuse.cafe           | available | $7.99     | —             | 82             | 13     | 5      | name.com          |
+| person.cafe          | available | $7.99     | —             | 80             | 17     | 6      | name.com          |
+| los.cafe             | premium   | $82.50    | —             | 86             | 19     | 3      | name.com          |
+| lorry.cafe           | available | $7.99     | —             | 91             | 8      | 5      | name.com          |
+| medicine.cafe        | resell    | —         | —             | 94             | 26     | 8      | Sav.com, LLC - 47 |
+| snippet.cafe         | available | $7.99     | —             | 92             | 15     | 7      | name.com          |
+| consuming.cafe       | available | $7.99     | $60.99        | 82             | 3      | 9      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAFE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAFE One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
