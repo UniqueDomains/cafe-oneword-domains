@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cafe one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,555 domains · **Median ask:** $8.41 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/cafe`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| hello.cafe | available | —         | —             | high           | low    | 5      | —                |
-| ache.cafe  | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
-| job.cafe   | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| aft.cafe   | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo         |
-| agog.cafe  | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
-| arch.cafe  | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 6 |
-| awe.cafe   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| also.cafe  | available | $7.99     | —             | high           | low    | 4      | name.com         |
-| clay.cafe  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.     |
-| bce.cafe   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
-| ashy.cafe  | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
-| fake.cafe  | resell    | —         | —             | low            | low    | 4      | Dynadot Inc      |
-| cap.cafe   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| aunt.cafe  | available | $7.99     | —             | high           | low    | 4      | name.com         |
-| farm.cafe  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.     |
-| cut.cafe   | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com         |
-| awol.cafe  | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
-| gold.cafe  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
-| cxx.cafe   | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo         |
-| bats.cafe  | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ache.cafe | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
+| job.cafe  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| aft.cafe  | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo         |
+| agog.cafe | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
+| arch.cafe | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 6 |
+| awe.cafe  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| also.cafe | available | $7.99     | —             | high           | low    | 4      | name.com         |
+| clay.cafe | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.     |
+| bce.cafe  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
+| ashy.cafe | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
+| fake.cafe | resell    | —         | —             | low            | low    | 4      | Dynadot Inc      |
+| cap.cafe  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| aunt.cafe | available | $7.99     | —             | high           | low    | 4      | name.com         |
+| farm.cafe | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.     |
+| cut.cafe  | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com         |
+| awol.cafe | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
+| gold.cafe | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| cxx.cafe  | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo         |
+| bats.cafe | available | $5.98     | $64.98        | low            | low    | 4      | namecheap        |
+| last.cafe | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAFE One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAFE One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

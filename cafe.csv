@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 c481e39f-65a2-48e8-bae6-ce495b8b15ec,beardless.cafe,available,5.98,64.98,low,low,9,namecheap,,
 e72dc635-f066-4411-a49c-2fcc61b95563,orleans.cafe,available,7.99,,high,low,7,name.com,,
-a87a5100-8531-4a24-8c62-17c5e89dda3f,breakfast.cafe,resell,,,high,low,9,"NameSilo, LLC",28/03/2017 23:21,28/03/2027 23:21
+a87a5100-8531-4a24-8c62-17c5e89dda3f,breakfast.cafe,resell,,,medium,low,9,"NameSilo, LLC",28/03/2017 23:21,28/03/2027 23:21
 74356625-2e74-4128-858c-bc9c35470b7c,depression.cafe,available,7.99,,medium,low,10,name.com,,
 fd00ff7b-783c-43fc-ba73-d98abeffe56d,positive.cafe,available,7.99,,high,low,8,name.com,,
 1447027d-e81a-4b48-bf6f-c2866127baaf,befitting.cafe,available,5.98,64.98,low,low,9,namecheap,,
